@@ -6,7 +6,6 @@ import ListWheel from './ListWheel'
 import listCars from './arrayFeatures.json'
 import listWheels from './wheels.json'
 import './style.css'
-
 export default class CarStore extends Component {
     state = {
         "car": listCars[0]

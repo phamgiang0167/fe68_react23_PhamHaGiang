@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import "js-cloudimage-360-view/dist/index"
 ReactDOM.render(
   <React.StrictMode>
     <App />
